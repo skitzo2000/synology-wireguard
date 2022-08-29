@@ -165,7 +165,7 @@ command in this repository:
 
 .. code-block:: bash
 
-    git clone https://github.com/runfalk/synology-wireguard.git
+    git clone https://github.com/skitzo2000/synology-wireguard.git
     cd synology-wireguard/
     sudo docker build -t synobuild .
 
